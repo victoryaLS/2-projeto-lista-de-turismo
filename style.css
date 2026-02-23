@@ -1,0 +1,68 @@
+header {
+  text-align: start;
+}
+
+h4 {
+  color: brown;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16PX;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+}
+
+.italia {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  opacity: 0.6;
+  font-weight: 500;
+  font-style: oblique;
+
+}
+
+img {
+  border-radius: 20px;
+  margin: 0;
+}
+
+section {
+  text-align: center;
+}
+
+h4 {
+  text-align: start;
+}
+
+h1 {
+  text-align: start;
+}
+
+#page {
+  width: 1000px;
+  padding: 16px;
+  background-color: white;
+  margin: 48px auto;
+  box-sizing: border-box;
+}
+
+.veneza {
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  text-align: justify;
+  opacity: 1.0;
+  font-weight: 500;
+}
+
+h2 {
+  text-align: start;
+  font-family: "Open Sans", sans-serif;
+}
+
+.frase {
+  font-size: 12px;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-weight: 500;
+}
